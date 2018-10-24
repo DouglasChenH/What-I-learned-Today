@@ -11,5 +11,6 @@ Note for coding related experience
 ### October <a name="month_Oct"></a>
   #### Oct 24
   1. File names must be all lowercase and may include underscores (_) or dashes (-), but no additional punctuation.
+  2. Use const and let instead of var for JavaScript
 
 ___
