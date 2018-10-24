@@ -2,9 +2,9 @@
 Note for coding related experience
 
 # Table of contents
-1. [2018] (#year2018)
-2. [2019] (#year2019)
-    1. [October] (#monthOct)
+1. [2018](#year2018)
+2. [2019](#year2019)
+    1. [October](#monthOct)
 
 
 # Table of contents
