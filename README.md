@@ -27,5 +27,12 @@ Note for coding related experience
     <blog-post v-bind:is-published="post.isPublished"></blog-post>
        
   ```
-
+  #### Oct 26
+  1. Vue.js v-for can use an alias called index to render a list of items and track their indexes. Alternatively, we can use $index
+  ``` bash
+    <div v-for="(index, item) in items">
+      {{ index }} {{ item.message }}
+    </div>
+       
+  ```
 ___
